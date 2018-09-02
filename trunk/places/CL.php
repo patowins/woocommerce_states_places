@@ -104,7 +104,7 @@ $places['CL'] = array(
 		'Viña Del Mar',
 		'Zapallar'
 	),
-	'RM' => array(
+	'MET' => array(
 		'Alhué',
 		'Buin',
 		'Calera de Tango',
